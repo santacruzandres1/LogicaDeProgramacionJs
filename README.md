@@ -1,10 +1,11 @@
 # ¡Bienvenidos Compañeros! 🚀
 
-¡Hola a todos! En este repositorio encontrarás los desafíos del curso **Lógica de Programación: Sumérgete en la programación con JavaScript**.
+¡Hola a todos! En este repositorio encontrarás los desafíos de la formación **Principiante en Programación G6 - ONE**.
 
 ## 📂 Contenido
-- Cada desafío está contenido en un archivo HTML individual (ej. `desafio1.html`, `desafio2.html`, etc.).
-- Para ejecutar un desafío específico, simplemente reemplaza la "X" en `<script src="desafioX"></script>` con el número de desafío que deseas ejecutar.
+- En cada carpeta encontrarán los desafios de los cursos de esta formación.
+- Cada desafío está contenido en un archivo Js individual (ej. `desafio1.js`, `desafio2.js`, etc.).
+- Para ejecutar un desafío específico, simplemente reemplaza la "X" en `<script src="desafioX"></script>` con el número de desafío que deseas ejecutar en el archivo `index.html`.
 
 ## 🚀 Cómo Utilizar
 1. Clona este repositorio o descárgalo como ZIP.
@@ -17,9 +18,15 @@
 - Si tienes sugerencias, mejoras o encuentras errores, ¡por favor crea un problema o envía una solicitud de extracción!
 
 ## 🌟 Desafíos Actuales
-- Desafío 1: ...
-- Desafío 2: ...
-- ...
+##### 1. Lógica de programación: sumérgete en la programación con JavaScript
+- Desafío 1
+- Desafío 2
+- Desafío 3
+- Desafío 4
+
+#### 2. Lógica de programación: explorar funciones y listas
+- Desafio 1
+
 
 ## 📣 Feedback
 ¡Estoy abierto a recibir tus comentarios! Si tienes alguna sugerencia, pregunta o simplemente quieres decir hola, no dudes en [crear un issue](../../issues).
